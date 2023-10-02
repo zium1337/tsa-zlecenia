@@ -7,7 +7,7 @@ TSA-z jest to program oparty na języku python, który zastąpi manualne zliczan
 
 - Wejdź w zakładkę [releases](https://github.com/zium1337/tsa-zlecenia/releases) i pobierz najnowszą wersje.
 - Wypakuj w dowolnym folderze
-- Wejdź do folderu, odpal CMD/Terminal i wpisz `python main.py`
+- Wejdź do folderu, odpal CMD/Terminal i wpisz `python -m pip install -r requirements.txt`, a następnie odpal program za pomocą komendy `python main.py`
 
 > [!WARNING]
 > Jeżeli folder instalacyjny z grą znajduje się gdzieś indziej będziesz musiał go sam zmienić, ponieważ domyślnie program sprawdza folder o ścieszce `C:/Program Files (x86)/MTA San Andreas 1.6/MTA/logs`. Jeśli chcesz zmienić ścieszkę wystarczy zmienić linijkę:
